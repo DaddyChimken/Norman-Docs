@@ -1,2 +1,2 @@
-# Norman-Docs
-Documentation for Norman bot.
+# Norman Docs
+The official documentation for Norman bot.
